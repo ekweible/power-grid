@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import './game_manager.dart';
+import 'game.dart';
 
 
 void main() {
